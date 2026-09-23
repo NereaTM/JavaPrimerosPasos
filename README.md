@@ -3,6 +3,8 @@
 Proyecto personal que utilicé para aprender lo básico de **Java**.
 Cada archivo es un pequeño resumen con comentarios explicando cada concepto
 
+**Año de creación:** 2024
+
 ## Contenido
 
 - **Main** → consola, tipos de datos, `Scanner` y `try-catch`
